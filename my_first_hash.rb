@@ -29,5 +29,5 @@ def adding
   shipping_manifest["musket"] = 2 
   shipping_manifest["gun powder"] = 4
   
-  puts shipping_manifest
+  shipping_manifest
 end
